@@ -3,4 +3,4 @@ scikit-learn==1.2.2
 joblib
 gunicorn
 pandas
-numpy==1.21.6
+numpy==1.23.5
